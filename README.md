@@ -1,2 +1,2 @@
 # abc
-![](skyHighBattles.gif)
+![](SkyHighBattles.gif)
